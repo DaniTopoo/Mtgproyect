@@ -2,7 +2,7 @@
   <div class="overflow-x-hidden">
     <Header />
 
-    <main class="pt-20">
+    <main class="pt-26">
       <router-view />
     </main>
   </div>
